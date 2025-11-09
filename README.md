@@ -3,30 +3,35 @@
 A personal portfolio website to showcase my projects, skills, and contact information.  
 Built using **HTML, CSS, and JavaScript** with a clean and responsive design.
 
-## 🔹 Features
+---
+
+## 🚀 Live Demo
+🔗 [View Live](https://omargamal-og.github.io/Personal-Portfolio/)
+
+---
+
+## ✨ Features
 - Fully responsive layout
 - Smooth navigation between sections
 - Project showcase with links to live demos and GitHub repos
 - Contact section with social links
 
-## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+---
 
-## 🚀 Live Demo
-[View Live](https://omargamal-og.github.io/Portfolio/)
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
 
-## 📸 Screenshot
-(Add your screenshot link or image here)
+---
 
-## 🧩 How to Use / Run Locally
-Clone this repository:
-```bash
+## 🧑‍💻 How to Use / Run Locally
+1. Clone this repository:
 git clone https://github.com/omargamal-og/Personal-Portfolio.git
 
-## Project Structure
+---
 
+## 📂 Project Structure
 Portfolio/
 │
 ├── assets/          # Images and icons
@@ -37,7 +42,11 @@ Portfolio/
 ├── index.html       # Main layout
 └── README.md
 
+---
+
 ## 🚀 Future Improvements
+
+Here are some planned and possible enhancements to improve the Weather App in the future:
 
 - Add dark/light mode toggle
 
@@ -47,11 +56,11 @@ Portfolio/
 
 - Add scroll-triggered animations
 
+---
+
 ## 🧑‍🎨 Author
 
-Omar Gamal
-💻 GitHub
-
-🔗 LinkedIn
-
-📧 omargamalemam@gmail.com
+**Omar Gamal**  
+💻 [GitHub](https://github.com/omargamal-og)  
+🔗 [LinkedIn](https://www.linkedin.com/in/omarrgamall)  
+📧 [Email](mailto:omargamalemam@gmail.com)
