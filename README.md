@@ -32,6 +32,7 @@ git clone https://github.com/omargamal-og/Personal-Portfolio.git
 ---
 
 ## 📂 Project Structure
+```
 Portfolio/
 │
 ├── assets/          # Images and icons
@@ -41,6 +42,7 @@ Portfolio/
 │   └── main.js      # Navigation and animations
 ├── index.html       # Main layout
 └── README.md
+```
 
 ---
 
